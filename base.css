@@ -1,0 +1,18 @@
+body{
+	background-color: #d6e1ff
+}
+
+.about{
+	background-color: #f7f8f9;
+	box-sizing: border-box;
+	padding: 20px;
+	border-style: groove;
+	text-align: center;
+	width: 100%;
+	font-family: Verdana
+}
+
+.links{
+	text-align: center;
+	width: 100%
+}
