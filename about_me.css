@@ -1,22 +1,52 @@
 body{
-	background-color: #d6e1ff
+    background-color: #d6e1ff
 }
 
-.about{
-	background-color: #f7f8f9;
-	box-sizing: border-box;
-	padding: 20px;
-	border-style: groove;
-	text-align: center;
-	width: 100%;
-	font-family: Verdana
+.about1{
+    background-color: #f7f8f9;
+    box-sizing: border-box;
+    padding: 20px;
+    border-style: groove;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana
+}
+
+.about2{
+    background-color: #f7f8f9;
+    box-sizing: border-box;
+    padding: 20px;
+    border-style: groove;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana
+}
+
+.about3{
+    background-color: #f7f8f9;
+    box-sizing: border-box;
+    padding: 20px;
+    border-style: groove;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana
+}
+
+#img-circle {
+    border-radius: 50%;
+    border-style: inset;
+    border-color: gold;
+    border-width: 4px;
+}
+
+#img-circle:hover {
+  transform: scale(1.05);
 }
 
 .links{
-	text-align: center;
-	width: 100%
+    text-align: center;
+    width: 100%
 }
-
 /* From W3schools */
 
 /* Dropdown Button */
