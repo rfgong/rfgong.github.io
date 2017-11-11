@@ -1,35 +1,42 @@
 body{
-    background-color: #d6e1ff
+    background-color: #d6e1ff;
+    z-index: 1;
 }
 
 .about1{
-    background-color: #f7f8f9;
+    /*background-color: #f7f8f9;*/
+    background-image: url(subtle_white_mini_waves.png);
+    z-index: 2;
     box-sizing: border-box;
     padding: 20px;
     border-style: groove;
     text-align: center;
     width: 100%;
-    font-family: Verdana
+    font-family: Verdana;
 }
 
 .about2{
-    background-color: #f7f8f9;
+    /*background-color: #f7f8f9;*/
     box-sizing: border-box;
+    background-image: url(subtle_white_mini_waves.png);
+    z-index: 2;
     padding: 20px;
     border-style: groove;
     text-align: center;
     width: 100%;
-    font-family: Verdana
+    font-family: Verdana;
 }
 
 .about3{
-    background-color: #f7f8f9;
+    /*background-color: #f7f8f9;*/
     box-sizing: border-box;
+    background-image: url(subtle_white_mini_waves.png);
+    z-index: 2;
     padding: 20px;
     border-style: groove;
     text-align: center;
     width: 100%;
-    font-family: Verdana
+    font-family: Verdana;
 }
 
 #img-circle {
@@ -45,7 +52,7 @@ body{
 
 .links{
     text-align: center;
-    width: 100%
+    width: 100%;
 }
 /* From W3schools */
 
@@ -58,7 +65,7 @@ body{
     border-width: 2px;
     border-style: groove;
     cursor: pointer;
-    font-family: Verdana
+    font-family: Verdana;
 }
 
 /* Dropdown button on hover & focus */
@@ -80,7 +87,7 @@ body{
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-    opacity: .95
+    opacity: .95;
 }
 
 /* Links inside the dropdown */
