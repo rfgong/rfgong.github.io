@@ -9,10 +9,10 @@
 <title>The Gong Lab -- Research</title>
 
 <!-- Bootstrap Core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="static/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="css/business-casual.css" rel="stylesheet">
+<link href="static/css/business-casual.css" rel="stylesheet">
 
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:200,400" rel="stylesheet">
@@ -48,14 +48,14 @@
         <a href="./#home">&lt;&lt; Other Topics</a><br />
         <br />
         <p> Photosynthetic organisms rely on highly-ordered chromophore arrays to capture and transfer solar energy to reaction centers for its conversion into chemical potential energy. To gain a better understanding of the design principles that enable the energy transfer processes in natural pigment-protein light harvesting systems, we have developed and explored synthetic systems based on the tobacco mosaic virus capsid protein (TMV). Through genetic engineering and site-specific conjugation, both pigment-protein and pigment-pigment interactions can be investigated systematically using these biomimetic systems. These studies are anticipated to provide insight towards the development of efficient artificial systems for solar energy collection and transduction in the future.</p>
-        <img src="img/portfolio/1.jpg" class="img-responsive  img-left" alt="">
+        <img src="static/img/portfolio/1.jpg" class="img-responsive  img-left" alt="">
         <p> Photosynthetic organisms rely on highly-ordered chromophore arrays to capture and transfer solar energy to reaction centers for its conversion into chemical potential energy. To gain a better understanding of the design principles that enable the energy transfer processes in natural pigment-protein light harvesting systems, we have developed and explored synthetic systems based on the tobacco mosaic virus capsid protein (TMV). Through genetic engineering and site-specific conjugation, both pigment-protein and pigment-pigment interactions can be investigated systematically using these biomimetic systems. These studies are anticipated to provide insight towards the development of efficient artificial systems for solar energy collection and transduction in the future.</p>
       </div>
     </div>
   </div>
   <div class="row">
     <div class="box">
-      <div class="col-lg-12"> <img src="img/portfolio/1.jpg" class="img-responsive center-block" alt=""> </div>
+      <div class="col-lg-12"> <img src="static/img/portfolio/1.jpg" class="img-responsive center-block" alt=""> </div>
     </div>
   </div>
 </div>
@@ -72,9 +72,9 @@
 </footer>
 
 <!-- jQuery --> 
-<script src="js/jquery.js"></script> 
+<script src="static/js/jquery.js"></script> 
 
 <!-- Bootstrap Core JavaScript --> 
-<script src="js/bootstrap.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
 </body>
 </html>

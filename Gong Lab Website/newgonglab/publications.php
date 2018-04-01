@@ -9,10 +9,10 @@
 <title>The Gong Lab -- Publications</title>
 
 <!-- Bootstrap Core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="static/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="css/business-casual.css" rel="stylesheet">
+<link href="static/css/business-casual.css" rel="stylesheet">
 
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:200,400" rel="stylesheet">
@@ -33,8 +33,7 @@
   <div class="row" id="row1">
     <div class="box banner" id="pubs">
       <div class="col-lg-12 text-center">
-        <div class="brand">Gong Lab</div>
-        <div class="address-bar">Publications</div>
+        <div class="brand" id = "custom-font">Publications</div>
       </div>
     </div>
   </div>
@@ -42,6 +41,8 @@
     <div class="box">
       <div class="col-lg-12">
         <ul class="publist">
+          <li>Wang D, Wang E, Liu K, Xia CH, Li S, Gong X. Roles of TGFβ and FGF signals during growth and differentiation of mouse lens epithelial cell in vitro. Sci Rep. 2017 Aug 4;7(1):7274. Free PMC Article PubMedID: 28779082</li>
+          <li>Wang E, Wang D, Geng A, Seo R, Gong X. Growth of hollow cell spheroids in microbead templated chambers. Biomaterials. 2017 Oct;143:57-64. PubMedID: 28763630 Cheng C, Fowler VM, Gong X. EphA2 and ephrin-A5 are not a receptor-ligand pair in the ocular lens. Exp Eye Res. 2017 Sep;162:9-17. PMID:28648759</li>
           <li>Cheng C, Fowler VM, Gong X. EphA2 and ephrin-A5 are not a receptor-ligand pair in the ocular lens. Exp. Eye Res. 2017</li>
           <li>Li J, Xia CH, Wang E, Yao K, Gong X. Screening, genetics, risk factors, and treatment of neonatal cataracts. Birth Defects Res. 2017</li>
           <li>Wang E, Geng A, Seo R, Maniar A, Gong X. Knock-in of Cx46 partially rescues fiber defects in lenses lacking Cx50. Mol Vis. 2017</li>
@@ -115,9 +116,9 @@
 </footer>
 
 <!-- jQuery --> 
-<script src="js/jquery.js"></script> 
+<script src="static/js/jquery.js"></script> 
 
 <!-- Bootstrap Core JavaScript --> 
-<script src="js/bootstrap.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
 </body>
 </html>

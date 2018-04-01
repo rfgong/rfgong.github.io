@@ -9,10 +9,10 @@
 <title>The Gong Lab -- UC Berkeley</title>
 
 <!-- Bootstrap Core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="static/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="css/business-casual.css" rel="stylesheet">
+<link href="static/css/business-casual.css" rel="stylesheet">
 
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:200,400" rel="stylesheet">
@@ -31,11 +31,8 @@
 <? include 'nav.inc' ?>
 <div class="container">
   <div class="row" id="row1">
-    <div class="box banner" id="index">
-      <div class="col-lg-12 text-center">
-        <div class="brand">The Gong Lab</div>
-        <div class="address-bar">School of Optometry, UC Berkeley</div>
-      </div>
+    <div class="col-lg-12 text-center" id="index">
+        <center><img width="70%" height="70%" src="static/img/logo.png" class="img-responsive" alt=""></center>
     </div>
   </div>
   <div class="row">
@@ -58,16 +55,16 @@
       </div>
       <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
         <h3>Ocular Lens Genetics</h3>
-        <img src="img/portfolio/1.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="static/img/portfolio/1.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
         <h3>Retinal Degeneration</h3>
-        <img src="img/portfolio/2.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="static/img/portfolio/2.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
         <h3>Ocular Metabolomics</h3>
-        <img src="img/portfolio/3.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="static/img/portfolio/3.jpg" class="img-responsive" alt=""> </a> </div>
       <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
         <h3>Tissue Engineering</h3>
-        <img src="img/portfolio/3.jpg" class="img-responsive" alt=""> </a> </div>
+        <img src="static/img/portfolio/3.jpg" class="img-responsive" alt=""> </a> </div>
     </div>
   </div>
 </div>
@@ -86,9 +83,9 @@
 </footer>
 
 <!-- jQuery --> 
-<script src="js/jquery.js"></script> 
+<script src="static/js/jquery.js"></script> 
 
 <!-- Bootstrap Core JavaScript --> 
-<script src="js/bootstrap.min.js"></script>
+<script src="static/js/bootstrap.min.js"></script>
 </body>
 </html>

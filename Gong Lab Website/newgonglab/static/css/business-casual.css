@@ -6,12 +6,12 @@
 
 @font-face {
     font-family: 'bebas_neue_regularregular';
-    src: url('../bebasneue_regular-webfont.eot');
-    src: url('../bebasneue_regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../bebasneue_regular-webfont.woff2') format('woff2'),
-         url('../bebasneue_regular-webfont.woff') format('woff'),
-         url('../bebasneue_regular-webfont.ttf') format('truetype'),
-         url('../bebasneue_regular-webfont.svg#bebas_neue_regularregular') format('svg');
+    src: url('../static/fonts/bebasneue_regular-webfont.eot');
+    src: url('../static/fonts/bebasneue_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../static/fonts/bebasneue_regular-webfont.woff2') format('woff2'),
+         url('../static/fonts/bebasneue_regular-webfont.woff') format('woff'),
+         url('../static/fonts/bebasneue_regular-webfont.ttf') format('truetype'),
+         url('../static/fonts/bebasneue_regular-webfont.svg#bebas_neue_regularregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -146,19 +146,30 @@ footer p {
 }
 
 #index {
-    background-image: url(../img/tomato.jpg);
+    background-color: white;
 }
 
 #members {
-    background-image: url(../img/iris.jpg);
+    background-image: url(../img/home.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: white;
 }
 
 #pubs {
-    background-image: url(../img/pubs.jpg);
+    background-image: url(../img/personnel.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: white;
 }
 
 #research {
 	background-image: url(../img/research.jpg);
+}
+
+#custom-font {
+    color: black;
+    text-shadow: 1px 1px 0.5px #EBEDFC, -1px -1px 0.5px #EEF9FF;
 }
 
 .publist li {
@@ -171,14 +182,12 @@ footer p {
 .brand {
 	display: inherit;
 	margin: 0;
-	padding: 40px 0 20px;
+	padding: 22% 0 20%;
 	text-align: center;
 	font-family: bebas_neue_regularregular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform: uppercase;
-	font-size: 5em;
-	font-weight: 700;
+	font-size: 10vw;
 	line-height: normal;
-	color: #fff;
 }
 
 .address-bar {
@@ -242,8 +251,9 @@ footer p {
         font-family: 'Raleway',"Helvetica Neue",Helvetica,Arial,sans-serif;
 		text-transform: uppercase;
         font-size: 5em;
-        font-weight: 200;
+        font-weight: 400;
         line-height: normal;
+        letter-spacing: 10%;
         color: #fff;
     }
 
