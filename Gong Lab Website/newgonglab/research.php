@@ -34,8 +34,7 @@
   <div class="row" id="row1">
     <div class="box banner" id="research">
       <div class="col-lg-12 text-center">
-        <div class="brand">Gong Lab</div>
-        <div class="address-bar">Research</div>
+        <div class="brand" id = "custom-font">Research</div>
       </div>
     </div>
   </div>
@@ -65,7 +64,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <p><a href="https://www.ocf.berkeley.edu"> <img src="https://www.ocf.berkeley.edu/hosting-logos/ocfbadge_mini8.png" alt="Hosted by the OCF" style="border: 0;" /></p>
+        <p><a href="https://www.ocf.berkeley.edu"> <img src="static/img/ocf.png" alt="Hosted by the OCF" style="border: 0;" /></p>
       </div>
     </div>
   </div>

@@ -76,7 +76,7 @@
       <div class="col-lg-12 text-center">
         <p><a href="http://www.berkeley.edu">UC Berkeley</a> | <a href="http://optometry.berkeley.edu/">School of Optometry</a> | <a href="http://vision.berkeley.edu/">Vision Science Program</a> | <a href="http://bioegrad.berkeley.edu/">Bioengineering Graduate Group</a><br />
           <br />
-          <a href="https://www.ocf.berkeley.edu"> <img src="https://www.ocf.berkeley.edu/hosting-logos/ocfbadge_mini8.png" alt="Hosted by the OCF" style="border: 0;" /> 
+          <a href="https://www.ocf.berkeley.edu"> <img src="static/img/ocf.png" alt="Hosted by the OCF" style="border: 0;" /> 
       </div>
     </div>
   </div>

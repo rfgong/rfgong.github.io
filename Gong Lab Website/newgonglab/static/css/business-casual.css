@@ -158,18 +158,23 @@ footer p {
 
 #pubs {
     background-image: url(../img/personnel.png);
-    background-size: cover;
+    background-size: 110%;
     background-repeat: no-repeat;
     background-color: white;
 }
 
 #research {
 	background-image: url(../img/research.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
 }
 
 #custom-font {
-    color: black;
-    text-shadow: 1px 1px 0.5px #EBEDFC, -1px -1px 0.5px #EEF9FF;
+    color: #094CA6;
+    text-shadow: 1px 1px 8px #ebedfc, -1px -1px 8px #EEF9FF;
+    font-size: 4.5vw;
+    font-weight: 650;
 }
 
 .publist li {
@@ -186,7 +191,6 @@ footer p {
 	text-align: center;
 	font-family: bebas_neue_regularregular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	text-transform: uppercase;
-	font-size: 10vw;
 	line-height: normal;
 }
 
