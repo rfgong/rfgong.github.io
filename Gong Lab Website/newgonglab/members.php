@@ -33,7 +33,7 @@
   <div class="row" id="row1">
     <div class="box banner" id="members">
       <div class="col-lg-12 text-center">
-        <div class="brand" id="custom-font">Members</div>
+        <!--<div class="brand" id="custom-font">Members</div>-->
       </div>
     </div>
   </div>

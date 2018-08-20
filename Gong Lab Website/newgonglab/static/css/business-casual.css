@@ -164,7 +164,7 @@ footer p {
 }
 
 #research {
-	background-image: url(../img/research.jpg);
+	background-image: url(../img/iris2.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: white;
@@ -172,7 +172,7 @@ footer p {
 
 #custom-font {
     color: #094CA6;
-    text-shadow: 1px 1px 8px #ebedfc, -1px -1px 8px #EEF9FF;
+    text-shadow: 1px 1px 2px #ebedfc, -1px -1px 2px #EEF9FF;
     font-size: 4.5vw;
     font-weight: 650;
 }

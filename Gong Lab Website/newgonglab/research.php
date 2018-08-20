@@ -34,7 +34,7 @@
   <div class="row" id="row1">
     <div class="box banner" id="research">
       <div class="col-lg-12 text-center">
-        <div class="brand" id = "custom-font">Research</div>
+        <!--<div class="brand" id = "custom-font">Research</div> -->
       </div>
     </div>
   </div>
@@ -54,7 +54,23 @@
   </div>
   <div class="row">
     <div class="box">
-      <div class="col-lg-12"> <img src="static/img/portfolio/1.jpg" class="img-responsive center-block" alt=""> </div>
+      <div class="col-lg-12"> 
+        <img src="static/img/portfolio/1.jpg" class="img-responsive center-block" alt=""> 
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="box">
+      <div class="col-lg-12"> 
+        <img src="static/img/portfolio/1.jpg" class="img-responsive center-block" alt=""> 
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="box">
+      <div class="col-lg-12"> 
+        <img src="static/img/portfolio/1.jpg" class="img-responsive center-block" alt=""> 
+      </div>
     </div>
   </div>
 </div>

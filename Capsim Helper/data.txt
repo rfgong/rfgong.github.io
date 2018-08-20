@@ -1,0 +1,27 @@
+
+format:
+rows are teams (a, b, c, d, e, f)
+cols are entries for each round
+
+LT price
+{}
+{}
+{}
+{}
+{}
+{}
+
+LT promo
+
+
+LT sales
+
+HT price
+
+HT promo
+
+HT sales
+
+Have a team interface, each team will have name, lists of specific number, getters
+
+
