@@ -19,11 +19,14 @@
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     /* background: url('../img/bg.jpg') no-repeat center center fixed; */
-	background: grey;
-    -webkit-background-size: cover;
+	background-image: url(../img/background5.jpg);
+    background-size: 260%;
+    background-position: center;
+    /*-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    */
 }
 
 h1,

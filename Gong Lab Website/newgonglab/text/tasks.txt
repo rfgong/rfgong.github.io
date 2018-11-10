@@ -1,0 +1,12 @@
+Publications:
+1. Find proper article titles, and full names. Put in list reserving two lines. 
+2. Collect relevant images from articles
+3. Create collapsibles organizing articles by year. 
+4. Adjust text style and coloring
+
+Home: 
+1. Refactor titles
+2. Remove research block
+3. Create grid template suitable for Staff
+4. Add contact information
+4. Ajust text style and coloring

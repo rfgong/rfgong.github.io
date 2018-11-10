@@ -38,33 +38,75 @@
   <div class="row">
     <div class="box">
       <div class="col-lg-12">
-        <hr>
+        <!-- <hr>
         <h2 class="intro-text text-center">Welcome to the Gong Lab! </h2>
-        <hr>
-        <hr class="visible-xs">
-        <p>Our long-term research goal is to develop new biological and chemical tools to diagnose, prevent, delay, or cure age-related eye diseases. The research of our lab is aimed to understand the underlying mechanisms for eye development and diseases by using mouse models that display similar human ocular disorders. We have generated and characterized dozens of mouse mutations that develop cataracts, retinal degeneration or other ocular disorders, through genetic approaches using either chemically-induced random mutagenesis or targeted gene disruption. Casative gene mutations have been determined by chromosomal mapping and gene sequencing. Current reserach topics are directed toward mechanistic studies of why and how these mutated genes lead to cataracts, retinal degeneration, vascular disorders and other diseases.</p>
+        <hr class="visible-xs"> -->
       </div>
     </div>
   </div>
   <div class="row">
     <div class="box">
       <div class="col-lg-12"> <a name="home"></a>
-        <hr>
-        <h2 class="intro-text text-center">Learn more about our research </h2>
+        <h2 class="intro-text text-center">Text</h2>
+        <p>Our long-term research goal is to develop new biological and chemical tools to diagnose, prevent, delay, or cure age-related eye diseases. The research of our lab is aimed to understand the underlying mechanisms for eye development and diseases by using mouse models that display similar human ocular disorders. We have generated and characterized dozens of mouse mutations that develop cataracts, retinal degeneration or other ocular disorders, through genetic approaches using either chemically-induced random mutagenesis or targeted gene disruption. Casative gene mutations have been determined by chromosomal mapping and gene sequencing. Current reserach topics are directed toward mechanistic studies of why and how these mutated genes lead to cataracts, retinal degeneration, vascular disorders and other diseases.</p>
         <hr>
       </div>
-      <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
-        <h3>Ocular Lens Genetics</h3>
-        <img src="static/img/portfolio/1.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
-        <h3>Retinal Degeneration</h3>
-        <img src="static/img/portfolio/2.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
-        <h3>Ocular Metabolomics</h3>
-        <img src="static/img/portfolio/3.jpg" class="img-responsive" alt=""> </a> </div>
-      <div class="col-lg-6 col-sm-6 text-center"> <a href="#" class="portfolio-box">
-        <h3>Tissue Engineering</h3>
-        <img src="static/img/portfolio/3.jpg" class="img-responsive" alt=""> </a> </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="box">
+      <div class="col-lg-12">
+        <br>
+      </div>
+      <div class="col-lg-12 text-center"> <img src="static/img/portfolio/holder.jpg" class="img-responsive center-block" alt="">
+        <p class="member"><span class="name">Xiaohua Gong</span><br />
+          Professor<br />
+          xgong@berkeley.edu</p>
+      </div>
+      <div class="col-lg-1 col-sm-1 col-xs-1 text-center"></div>
+      <div class="col-lg-5 col-sm-5 col-xs-5 text-center"> <img src="static/img/portfolio/holder.jpg" class="img-responsive center-block" alt="">
+        <p class="member"><span class="name">Chun-Hong Xia</span><br />
+          Staff Scientist<br />
+          chxia@berkeley.edu</p>
+      </div>
+      <div class="col-lg-5 col-sm-5 col-xs-5 text-center"> <img src="static/img/members/ML.jpg" class="img-responsive center-block" alt="">
+        <p class="member"><span class="name">Mei Li</span><br />
+          Staff Scientist<br />
+          mei.li@berkeley.edu</p>
+      </div>
+      <div class="col-lg-1 col-sm-1 col-xs-1 text-center"></div>
+      <div class="col-lg-12">
+        <br>
+      </div>
+      <hr>
+        <h2 class="intro-text text-center">Graduate Researchers<br />
+        </h2>
+      <hr>
+      <div class="col-lg-12">
+        <br>
+      </div>
+      <div class="col-lg-1 col-sm-1 col-xs-1 text-center"></div>
+      <div class="col-lg-5 col-sm-5 col-xs-5 text-center"> <img src="static/img/members/JL.jpg" class="img-responsive center-block" alt="">
+        <p class="member"><span class="name">Jimmy Liu</span><br />
+          Postdoc<br />
+          chunyenliu@berkeley.edu</p>
+      </div>
+      <div class="col-lg-5 col-sm-5 col-xs-5 text-center"> <img src="static/img/portfolio/holder.jpg" class="img-responsive center-block" alt="">
+        <p class="member"><span class="name">Wiktor Stopka</span><br />
+          Grad Student<br />
+          wiktor.stopka@berkeley.edu</p>
+      </div>
+      <div class="col-lg-1 col-sm-1 col-xs-1 text-center"></div>
+      <div class="col-lg-12">
+        <br>
+      </div>
+      <hr>
+        <h2 class="intro-text text-center">Undergraduate Researchers<br />
+        </h2>
+      <hr>
+      <div class="col-lg-12">
+        <br>
+      </div>
     </div>
   </div>
 </div>
