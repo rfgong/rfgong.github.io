@@ -32,7 +32,7 @@
 <? include 'nav.inc' ?>
 <div class="container">
   <div class="row" id="row1">
-    <div class="col-lg-12 text-center" id="index">
+    <div class="col-lg-12 text-center">
         <center><img src="static/img/lablogo.png" class="img-responsive logo" alt=""></center>
     </div>
   </div>

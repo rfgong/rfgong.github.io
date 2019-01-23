@@ -4,21 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-@font-face {
-    font-family: 'bebas_neue_regularregular';
-    src: url('../static/fonts/bebasneue_regular-webfont.eot');
-    src: url('../static/fonts/bebasneue_regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../static/fonts/bebasneue_regular-webfont.woff2') format('woff2'),
-         url('../static/fonts/bebasneue_regular-webfont.woff') format('woff'),
-         url('../static/fonts/bebasneue_regular-webfont.ttf') format('truetype'),
-         url('../static/fonts/bebasneue_regular-webfont.svg#bebas_neue_regularregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 body {
-    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    /* background: url('../img/bg.jpg') no-repeat center center fixed; */
 	background-image: url(../img/backgroundv2.png);
     background-size: cover;
     background-position: center;
@@ -29,29 +15,22 @@ body {
     */
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    text-transform: uppercase;
-    font-family: Arial,Helvetica;
-    font-weight: 400;
-    letter-spacing: 4px;
-}
-
-h3, h4 {
-	letter-spacing: 2px;
-}
-
 hr {
     max-width: 400px;
     border-color: #999999;
 }
 
+footer {
+    background: rgba(248,248,248,1);
+}
+
+footer p {
+    margin: 0;
+    padding: 50px 0;
+}
+
 .navbar-brand {
-	font-family: bebas_neue_regularregular,"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-family: 'Rokkitt', serif;
     text-transform: uppercase;
     font-weight: 900;
 	font-size: 2em;
@@ -67,30 +46,6 @@ hr {
 
 .navbar-default {
 	margin-bottom: 0;
-}
-
-.img-full {
-    min-width: 100%;
-}
-
-.brand-before,
-.brand-name {
-    text-transform: capitalize;
-}
-
-.brand-before {
-    margin: 15px 0;
-}
-
-.brand-name {
-    margin: 0;
-    font-size: 4em;
-}
-
-.tagline-divider {
-    margin: 15px auto 3px;
-    max-width: 250px;
-    border-color: #999999;
 }
 
 .box {
@@ -114,31 +69,11 @@ hr {
     letter-spacing: 0.75px;
 }
 
-.img-border {
-    float: none;
-    margin: 0 auto 0;
-    border: #999999 solid 1px;
-}
-
-.img-left {
-    float: none;
-    margin: 0 auto 0;
-}
-
 .logo {
 	width: 75%;
 	height: 75%;
 	padding-top: 5%;
 	padding-bottom: 3%;
-}
-
-footer {
-    background: rgba(248,248,248,1);
-}
-
-footer p {
-    margin: 0;
-    padding: 50px 0;
 }
 
 .banner {
@@ -155,37 +90,18 @@ footer p {
 	margin-bottom: 0px;
 }
 
-#index {
-    /*background-color: white;*/
+.mission {
+	font-family: 'News Cycle', sans-serif;
+	padding: 5px 5px;
+    font-size: 1.2em;
 }
 
-#members {
-    background-image: url(../img/home.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: white;
+.member {
+	margin-top: .5em;
 }
 
-#pubs {
-    background-image: url(../img/personnel.png);
-    background-size: 110%;
-    background-repeat: no-repeat;
-    background-color: white;
-    border-radius: 50px;
-}
-
-#research {
-	background-image: url(../img/iris2.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-color: white;
-}
-
-#custom-font {
-    color: #094CA6;
-    text-shadow: 1px 1px 2px #ebedfc, -1px -1px 2px #EEF9FF;
-    font-size: 4.5vw;
-    font-weight: 650;
+.name {
+	font-weight: bold;
 }
 
 .publist li {
@@ -197,38 +113,13 @@ footer p {
 .publist {
 	margin: 3em 0;
 }
-.brand {
-	display: inherit;
-	margin: 0;
-	padding: 22% 0 20%;
-	text-align: center;
-	font-family: bebas_neue_regularregular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-	text-transform: uppercase;
-	line-height: normal;
-}
 
-.address-bar {
-	display: inherit;
-	margin: 0;
-	padding: 0 0 40px;
-	text-align: center;
-	font-family: bebas_neue_regularregular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    text-shadow: 1px 1px 2px rgba(255,255,255,0.5);
-	text-transform: uppercase;
-	font-size: 1.5em;
-	font-weight: 700;
-	letter-spacing: 3px;
-	color: #ccc;
-}
-
-.box a {
-	color: #094CA6;
-}
-
-.mission {
-	font-family: 'News Cycle', sans-serif;
-	padding: 5px 5px;
-    font-size: 1.2em;
+#pubs {
+    background-image: url(../img/personnel.png);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    background-color: white;
+    border-radius: 50px;
 }
 
 #transparent-white {
@@ -236,93 +127,14 @@ footer p {
     background: rgba(255,255,255,0.5);
 }
 
-.box a:hover {
-	color: black;
-	text-decoration: none;
-}
-
-.active {
-	color:red;
-	font-size: 30px;
-}
-
-	 .box:after {
-        content: '';
-        display: table;
-        clear: both;
-    }
-	
-.member {
-	margin-top: .5em;
-}
-
-.name {
-	font-weight: bold;
-}
-
 @media screen and (min-width:768px) {
-	 .box:after {
-        content: '';
-        display: table;
-        clear: both;
-    }
-	#banner {
-		margin-bottom: 20px;
-	}
-	
-    .brand {
-        display: inherit;
-        margin: 0;
-        padding: 50px 0 10px;
-        text-align: center;
-        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-        font-family: 'Raleway',"Helvetica Neue",Helvetica,Arial,sans-serif;
-		text-transform: uppercase;
-        font-size: 5em;
-        font-weight: 400;
-        line-height: normal;
-        letter-spacing: 10%;
-        color: #fff;
-    }
-
-    .top-divider {
-        margin-top: 0;
-    }
-
-    .img-left {
-        float: left;
-        margin-right: 25px;
-    }
-
-    #circular {
-    	border-radius: 50%;
-    	height: 250px;
-    }
-
-    .address-bar {
-        display: inherit;
-        margin: 0;
-        padding: 0 0 40px;
-        text-align: center;
-        text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-        font-family: 'Raleway',"Helvetica Neue",Helvetica,Arial,sans-serif;
-        text-transform: uppercase;
-        font-size: 1.5em;
-        font-weight: 400;
-        letter-spacing: 3px;
-        color: #fff;
-    }
-	
     .navbar {
         border-radius: 0;
+        min-height: 0;
     }
 
     .navbar-header {
         display: none;
-    }
-
-    .navbar {
-        min-height: 0;
     }
 
     .navbar-default {
@@ -346,13 +158,9 @@ footer p {
         table-layout: fixed;
         font-size: 1.25em;
     }
-}
-
-@media screen and (min-width:1200px) {
-    .box:after {
-        content: '';
-        display: table;
-        clear: both;
+    #circular {
+    	border-radius: 50%;
+    	height: 250px;
     }
 }
 
@@ -381,11 +189,6 @@ footer p {
     	font-weight: 600;
     	letter-spacing: 0.5px;
 	}
-	#circular {
-    	border-radius: 50%;
-    	max-height: 50%;
-    	max-width: 50%;
-    }
     .logo {
 		width: 95%;
 		height: 95%;
@@ -397,5 +200,10 @@ footer p {
 		font-family: 'News Cycle', sans-serif;
 		font-size: 3.5vw;
 	}
+	#circular {
+    	border-radius: 50%;
+    	max-height: 50%;
+    	max-width: 50%;
+    }
 }
 
