@@ -1,0 +1,227 @@
+<html>
+<head>
+
+<title>Gong Laboratory - Home</title>
+<style type="text/css">
+<!--
+
+a:hover {
+  color: black ;
+}
+
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script>
+<!--
+
+/*
+Textual Tooltip Script- 
+© Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions,
+100's more DHTML scripts, and Terms Of
+Use, visit dynamicdrive.com
+*/
+
+
+var content=new Array()
+//change the array below to the text associated with your links Expand or contract the array, depending on how many links you have
+content[0]='<img src="home.jpg" height="170" border="0">'
+content[1]='<img src="personnel.jpg" height="170" border="0">'
+content[2]='<img src="publications2.jpg" height="170" border="0">'
+content[3]='<img src="personnel2.jpg" height="170" border="0">'
+content[4]='<img src="links.jpg" height="170" border="0">'
+content[5]='<img src="eyedevelopment.gif" height="170" border="0">'
+content[6]='<img src="cataracts6.gif" height="170" border="0">'
+content[7]='<img src="connexins6.gif" height="170" border="0">'
+content[8]='<img src="crystallins6.gif" height="170" border="0">'
+content[9]='<img src="retinaldegeneration6.gif" height="170" border="0">'
+content[10]='<img src="angiogenesis6.gif" height="170" border="0">'
+content[11]='<img src="ischemia6.gif" height="170" border="0">'
+content[12]='<img src="Retinal Pigmented Cells 6.gif" height="170" border="0">'
+content[13]='<img src="alumni.jpg" height="170" border="0">'
+content[14]='<img src="courses.jpg" height="170" border="0">'
+
+function regenerate(){
+window.location.reload()
+}
+function regenerate2(){
+if (document.layers){
+appear()
+setTimeout("window.onresize=regenerate",450)
+}
+}
+
+function changetext(whichcontent){
+
+if (document.all||document.getElementById){
+cross_el=document.getElementById? document.getElementById("descriptions"):document.all.descriptions
+cross_el.innerHTML='<font face="Verdana"><small>'+whichcontent+'<font></small>'
+}
+else if (document.layers){
+document.d1.document.d2.document.write('<font face="Verdana"><small>'+whichcontent+'</small></font>')
+document.d1.document.d2.document.close()
+}
+
+}
+
+function appear(){
+document.d1.visibility='show'
+}
+
+window.onload=regenerate2
+
+
+//-->
+</script>
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div align="center"> 
+  <table width="767" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td height="420" valign="top" align="center"> 
+        <p align="center">&nbsp;</p><br>
+        <p align="center"><img src="logo3.jpg" width="464" height="112"></p>
+        <table width="300" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td valign="top" align="center"> 
+              <ilayer id="d1" width="200" height="200" visibility="hide"> 
+              <layer id="d2" width="200" height="200"> 
+              <div id="descriptions" align="center"> 
+                <!--Change below to default content of your own-->
+                <p><strong><font face="Verdana" color="#000000"><br>
+                  </font></strong>
+                  <!--Stop editting-->
+              </div>
+              </layer>
+              </ilayer>
+            </td>
+          </tr>
+        </table>
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <script type="text/javascript">
+
+/***********************************************
+* Scrollable Menu Links- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+
+//configure path for left and right arrows
+var goleftimage='pointer3.gif'
+var gorightimage='pointer4.gif'
+//configure menu width (in px):
+var menuwidth=500
+//configure menu height (in px):
+var menuheight=100
+//Specify scroll buttons directions ("normal" or "reverse"):
+var scrolldir="reverse"
+//configure scroll speed (1-10), where larger is faster
+var scrollspeed=10
+//specify menu content
+var menucontents='<nobr><a href="research.html" onMouseOver="changetext(content[5])"><img src="eye development.jpg" height="100" border="0"></a>  <a href="research.html" onMouseOver="changetext(content[6])"><img src="lens.jpg" height="100" border="0"></a>  <a href="research.html" onMouseOver="changetext(content[7])"><img src="staining.jpg" height="100"  border="0"></a>  <a href="research.html" onMouseOver="changetext(content[8])"><img src="transfection.jpg" height="100" border="0"></a>  <a href="research.html" onMouseOver="changetext(content[9])"><img src="fundus.jpg" height="100" border="0"></a>  <a href="research.html" onMouseOver="changetext(content[10])"><img src="angiogram.jpg" height="100" border="0"></a>  <a href="research.html" onMouseOver="changetext(content[11])"><img src="vesselpainting.jpg" height="100" border="0"></a>  <a href="research.html" onMouseOver="changetext(content[12])"><img src="EM.jpg" height="100" border="0"></a></nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+
+var iedom=document.all||document.getElementById
+var leftdircode='onMouseover="moveleft()" onMouseout="clearTimeout(lefttime)"'
+var rightdircode='onMouseover="moveright()" onMouseout="clearTimeout(righttime)"'
+if (scrolldir=="reverse"){
+var tempswap=leftdircode
+leftdircode=rightdircode
+rightdircode=tempswap
+}
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100;left:-5000">'+menucontents+'</span>')
+var actualwidth=''
+var cross_scroll, ns_scroll
+var loadedyes=0
+function fillup(){
+if (iedom){
+cross_scroll=document.getElementById? document.getElementById("test2") : document.all.test2
+cross_scroll.innerHTML=menucontents
+actualwidth=document.all? cross_scroll.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_scroll=document.ns_scrollmenu.document.ns_scrollmenu2
+ns_scroll.document.write(menucontents)
+ns_scroll.document.close()
+actualwidth=ns_scroll.document.width
+}
+loadedyes=1
+}
+window.onload=fillup
+
+function moveleft(){
+if (loadedyes){
+if (iedom&&parseInt(cross_scroll.style.left)>(menuwidth-actualwidth)){
+cross_scroll.style.left=parseInt(cross_scroll.style.left)-scrollspeed+"px"
+}
+else if (document.layers&&ns_scroll.left>(menuwidth-actualwidth))
+ns_scroll.left-=scrollspeed
+}
+lefttime=setTimeout("moveleft()",50)
+}
+
+function moveright(){
+if (loadedyes){
+if (iedom&&parseInt(cross_scroll.style.left)<0)
+cross_scroll.style.left=parseInt(cross_scroll.style.left)+scrollspeed+"px"
+else if (document.layers&&ns_scroll.left<0)
+ns_scroll.left+=scrollspeed
+}
+righttime=setTimeout("moveright()",50)
+}
+
+
+if (iedom||document.layers){
+with (document){
+write('<table border="0" cellspacing="0" cellpadding="2">')
+write('<td valign="middle"><a href="#" '+leftdircode+'><img src="'+goleftimage+'"border=0></a> </td>')
+write('<td width="'+menuwidth+'px" valign="top">')
+if (iedom){
+write('<div style="position:relative;width:'+menuwidth+'px;height:'+menuheight+'px;overflow:hidden;">')
+write('<div id="test2" style="position:absolute;left:0;top:0">')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+menuwidth+' height='+menuheight+' name="ns_scrollmenu">')
+write('<layer name="ns_scrollmenu2" left=0 top=0></layer></ilayer>')
+}
+write('</td>')
+write('<td valign="middle"> <a href="#" '+rightdircode+'>')
+write('<img src="'+gorightimage+'"border=0></a>')
+write('</td></table>')
+}
+}
+
+</script>
+       <!-- <img src="animouse.gif" style="position:absolute; left:950px; top:500px"><img src="animouse2.gif" style="position:absolute; left:300px; top:500px"></td> -->
+    </tr>
+    <tr> 
+      <td align="center" valign="top"> 
+        <div id="scriptmenu" style="line-height:20px">
+          <p><strong><font
+            face="Verdana"><a STYLE="text-decoration:none" href="index.html" onMouseOver="changetext(content[0])"><small>Home</small></a>  
+    - <a STYLE="text-decoration:none" href="research.html" onMouseOver="changetext(content[3])"><small>Research</small></a> 
+    - <a STYLE="text-decoration:none" href="personnel.html" onMouseOver="changetext(content[1])"><small>Personnel</small></a> 
+    - <a STYLE="text-decoration:none" href="publications.html" onMouseOver="changetext(content[2])"><small>Publications</small></a> 
+    - <a STYLE="text-decoration:none" href="courses.html" onMouseOver="changetext(content[14])"><small>Courses</small></a> 
+    - <a STYLE="text-decoration:none" href="links.html" onMouseOver="changetext(content[4])"><small>Links</small></a></font></strong> 
+            <strong><font
+            face="Verdana">- <a STYLE="text-decoration:none" href="alumni.html" onMouseOver="changetext(content[13])"><small>Alumni</small></a></font></strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
