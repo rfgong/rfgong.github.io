@@ -49,7 +49,7 @@
           <ul>
             <li>Lens development and cataract formation:  To study what functional roles are played by intercellular gap junction channels, genetic factors, and signaling molecules in lens development and cataract formation. This project aims to elucidate new insights about how lens cell morphogenesis and homeostasis are maintained for lens growth and transparency during development, and to provide innovative approaches for delaying age-related cataracts - a leading cause of blindness in the world.</li>
             <br>
-            <li>Function and regulation of retinal pigment epithelium (RPE):  To study how intracellular and intravesicular pH homeostasis is regulated by Na+/H+ exchanges (NHE) in RPE. The goal of this project is to understand how dysfunctional RPE, one of the key factors causing age-related macular degeneration (AMD), leads to retinal degeneration - the death of photoreceptors, and to develop novel methods for maintaining or regenerating RPE. AMD is a leading cause of blindness in the western world including the US.</li>
+            <li>Function and regulation of retinal pigment epithelium (RPE):  To study how intracellular and intravesicular pH homeostasis is regulated by Na<sup>+</sup>/H<sup>+</sup> exchangers (NHE) in RPE. The goal of this project is to understand how dysfunctional RPE, one of the key factors causing age-related macular degeneration (AMD), leads to retinal degeneration - the death of photoreceptors, and to develop novel methods for maintaining or regenerating RPE. AMD is a leading cause of blindness in the western world including the US.</li>
             <br>
             <li>Signal transduction in retinal and choroidal endothelial cells:  To study the roles of surface receptors of low-density lipoprotein receptor families including Lrp5 and VLDLR in retinal angiogenesis. This project aims to explore mechanisms controlling vascular endothelial cells in development and diseases.</li>
           </ul>
@@ -69,7 +69,7 @@
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/xiaGonS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Xiaohua Gong</span><br />
-          PhD, Professor<br />
+          PhD, Professor, Principal Investigator<br />
           xgong@berkeley.edu</p>
       </div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/chuXiaS.jpg" class="img-responsive center-block" id="circular" alt="">
@@ -82,18 +82,10 @@
           PhD, MD, Gene Delivery Specialist<br />
           mei.li@berkeley.edu</p>
       </div>
-      <div class="col-lg-12">
-        <br>
-      </div>
-        <h2 class="lower-header text-center">GRADUATE RESEARCHERS<br />
-        </h2>
-      <div class="col-lg-12">
-        <br>
-      </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/guaZhaS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Guannan Zhao</span><br />
-          PhD, Postdoctoral Researcher<br /></p>
+          PhD, Postdoctoral Fellow<br /></p>
       </div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/binKonS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Bin Kong</span><br />
@@ -141,6 +133,10 @@
         <p class="member"><span class="name">Kim Duong</span><br />
           Undergraduate Research Student<br /></p>
       </div>
+      <div class="col-lg-12">
+        <br>
+        <br>
+      </div>
     </div>
   </div>
 </div>
@@ -150,7 +146,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <p><a href="http://www.berkeley.edu">UC Berkeley</a> | <a href="http://optometry.berkeley.edu/">School of Optometry</a> | <a href="http://vision.berkeley.edu/">Vision Science Program</a> | <a href="http://bioegrad.berkeley.edu/">Bioengineering Graduate Group</a><br />
+        <p><a href="http://optometry.berkeley.edu/">School of Optometry</a> | <a href="http://vision.berkeley.edu/">Vision Science Program</a> | <a href="http://bioegrad.berkeley.edu/">Bioengineering Graduate Group</a> | <a href="https://grad.berkeley.edu/program/comparative-biochemistry/">Graduate Comparative Biochemistry</a><br />
           <br />
           <a href="https://www.ocf.berkeley.edu"> <img src="static/img/ocf.png" alt="Hosted by the OCF" style="border: 0;" /> 
       </div>
