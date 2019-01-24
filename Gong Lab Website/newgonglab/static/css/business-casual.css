@@ -110,6 +110,10 @@ footer p {
 	font-size: 1.2em;
 }
 
+.publist li a{
+    color: black;
+}
+
 .publist {
 	margin: 3em 0;
 }
