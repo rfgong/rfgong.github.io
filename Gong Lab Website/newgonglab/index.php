@@ -97,15 +97,6 @@
       </div>
       <div class="col-lg-12">
       </div>
-      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/adrKwoS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Adrienne Kwok</span><br />
-          BS, Research Assistant<br /></p>
-      </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jiaYuS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Jiajie Yu</span><br />
-          BS, Research Assistant<br /></p>
-      </div>
       <div class="col-lg-12">
         <br>
       </div>
@@ -113,6 +104,15 @@
         </h2>
       <div class="col-lg-12">
         <br>
+      </div>
+      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/adrKwoS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Adrienne Kwok</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jiaYuS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Jiajie Yu</span><br />
+          Undergraduate Research Student<br /></p>
       </div>
       <div class="col-sm-12 text-center"> <img src="static/img/members/wilHanS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">William Han</span><br />
