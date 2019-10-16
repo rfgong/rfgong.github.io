@@ -17,7 +17,7 @@
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:200,400" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=News+Cycle|Rokkitt" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -41,7 +41,7 @@
   <div class="row">
     <div class="box">
       <div class="col-lg-12"> <a name="home"></a>
-        <h2 class="intro-text text-center">RESEARCH</h2>
+        <h2 class="intro-text text-center">Research</h2>
         <br />
         <div class="mission" id="transparent-white">
           <p><strong>By using experimental tools in genetics, molecular and cellular biology, biochemistry, and tissue engineering, we investigate the underlying mechanisms of eye growth and disease development to understand how the eyeball focuses light and forms a clear image.</strong></p>  
@@ -61,7 +61,7 @@
   <div class="row">
     <div class="box">
       <div class="col-lg-12">
-        <h2 class="intro-text text-center">LAB MEMBERS</h2>
+        <h2 class="intro-text text-center">Lab Members</h2>
       </div>
       <div class="col-lg-12">
         <br>
@@ -83,9 +83,9 @@
           mei.li@berkeley.edu</p>
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/guaZhaS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Guannan Zhao</span><br />
-          PhD, Postdoctoral Fellow<br /></p>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/xueLiS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Xue Li</span><br />
+          PhD Student<br /></p>
       </div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/binKonS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Bin Kong</span><br />
@@ -98,18 +98,18 @@
       <div class="col-lg-12">
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/racLiS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Rachel Li</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/adrKwoS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Adrienne Kwok</span><br />
           BS, Research Assistant<br /></p>
       </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/sarChuS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Sarah Chu</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jiaYuS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Jiajie Yu</span><br />
           BS, Research Assistant<br /></p>
       </div>
       <div class="col-lg-12">
         <br>
       </div>
-        <h2 class="lower-header text-center">UNDERGRADUATE RESEARCHERS<br />
+        <h2 class="lower-header text-center">Undergraduate Researchers<br />
         </h2>
       <div class="col-lg-12">
         <br>
