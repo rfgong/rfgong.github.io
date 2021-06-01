@@ -1,3 +1,6 @@
+Tjahjono N, Xia CH, Li R, Chu S, Wang J, Gong X. (2020) Connexin 50-R205G mutation perturbs lens epithelial cell proliferation and differentiation. Ophthalmology & Visual Science (IOVS) 61(3):25. PMID: 32182330
+Li Y, Liu X, Xia CH, FitzGerald PG, Li R, Wang J, Gong X. (2020) CP49 and filensin intermediate filaments are essential for formation of cold cataract. Mol Vis. Aug 23;26:603-612. PMID: 32913386
+Xia CH, Li M, Onishi A, Su B, Ferguson I, Kim A, Li L, Gong X. Essential function of NHE8 in mouse retina demonstrated by AAV-mediated CRISPR/Cas9 knockdown.
 Wang D, Wang E, Liu K, Xia CH, Li S, Gong X. Roles of TGFβ and FGF signals during growth and differentiation of mouse lens epithelial cell in vitro. Sci Rep. 2017 Aug 4;7(1):7274. Free PMC Article PubMedID: 28779082
 Wang E, Wang D, Geng A, Seo R, Gong X. Growth of hollow cell spheroids in microbead templated chambers. Biomaterials. 2017 Oct;143:57-64. PubMedID: 28763630 Cheng C, Fowler VM, Gong X. EphA2 and ephrin-A5 are not a receptor-ligand pair in the ocular lens. Exp Eye Res. 2017 Sep;162:9-17. PMID:28648759
 Cheng C, Fowler VM, Gong X. EphA2 and ephrin-A5 are not a receptor-ligand pair in the ocular lens. Exp. Eye Res. 2017

@@ -42,6 +42,10 @@
     <div class="box">
       <div class="col-lg-12">
         <ul class="publist">
+          <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/32182330/">"Connexin 50-R205G Mutation Perturbs Lens Epithelial Cell Proliferation and Differentiation."</a></strong><br />
+          <sup>Tjahjono N, Xia CH, Li R, Chu S, Wang J, Gong X</sup></li>
+          <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/32913386/">"CP49 and filensin intermediate filaments are essential for formation of cold cataract."</a></strong><br />
+          <sup>Li Y, Liu X, Xia CH, FitzGerald PG, Li R, Wang J, Gong X</sup></li>
           <li><strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29958869">"Essential function of NHE8 in mouse retina demonstrated by AAV-mediated CRISPR/Cas9 knockdown."</a></strong><br />
           <sup>Xia CH, Li M, Onishi A, Su B, Ferguson I, Kim A, Li L, Gong X</sup></li>
           <li><strong><a href="https://www.nature.com/articles/s41598-017-07619-5">"Roles of TGFβ and FGF signals during growth and differentiation of mouse lens epithelial cell in vitro."</a></strong><br />

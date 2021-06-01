@@ -83,23 +83,12 @@
           mei.li@berkeley.edu</p>
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/zeyLiuS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Zeyang Liu</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/sanPaiS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Santosh Paidi</span><br />
           Postdoctoral Fellow<br /></p>
       </div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/yuxLiS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Yuxing Li</span><br />
-          PhD Student<br /></p>
-      </div>
-      <div class="col-sm-12 text-center">
-      </div>
-      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/xueLiS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Xue Li</span><br />
-          PhD Student<br /></p>
-      </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jiaCheS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Jianwei Chen</span><br />
           PhD Student<br /></p>
       </div>
       <div class="col-lg-12">
@@ -112,35 +101,44 @@
       <div class="col-lg-12">
         <br>
       </div>
-      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/adrKwoS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Adrienne Kwok</span><br />
-          Undergraduate Research Student<br /></p>
-      </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jiaYuS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Jiajie Yu</span><br />
-          Undergraduate Research Student<br /></p>
-      </div>
-      <div class="col-sm-12 text-center"> <img src="static/img/members/wilHanS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">William Han</span><br />
+      <div class="col-sm-12 text-center"> <img src="static/img/members/pasMbeS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Pascale Mbeukeu</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/mirCheS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Miranda Chen</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/wilLinS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">William Lin</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jesWanS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Jessica Wang</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/tomZhaS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Tom Zhang</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-sm-12 text-center"> <img src="static/img/members/kimDuoS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Kim Duong</span><br />
+      <div class="col-sm-12 text-center"> <img src="static/img/members/karTraS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Karine Trapenard</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
+      </div>
+      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/cheOuS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Chenxi Ou</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jacShaS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Jack Shang</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-lg-12">
+      </div>
+      <div class="col-sm-12 text-center"> <img src="static/img/members/conTumS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Connor Tumelty</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-lg-12">
+      </div>
         <br>
         <br>
       </div>
