@@ -133,8 +133,16 @@
       </div>
       <div class="col-lg-12">
       </div>
-      <div class="col-sm-12 text-center"> <img src="static/img/members/conTumS.jpg" class="img-responsive center-block" id="circular" alt="">
+      <div class="col-lg-12">
+        <br>
+      </div>
+      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/conTumS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Connor Tumelty</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/isaXuS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Isaac Xu</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
