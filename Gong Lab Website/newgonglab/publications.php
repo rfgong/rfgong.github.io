@@ -42,6 +42,10 @@
     <div class="box">
       <div class="col-lg-12">
         <ul class="publist">
+          <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34597677/">"Age-related changes of lens stiffness in wild-type and Cx46 knockout mice."</a></strong><br />
+          <sup>Stopka W, Libby T, Lin S, Wang E, Xia CH, Gong X</sup></li>
+          <li><strong><a href="https://www.nature.com/articles/s41598-021-96867-7/">"Quantitative X-ray tomographic analysis reveals calcium precipitation in cataractogenesis."</a></strong><br />
+          <sup>Li Y, Parkinson DY, Feng J, Xia CH, Gong X</sup></li>
           <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/32182330/">"Connexin 50-R205G Mutation Perturbs Lens Epithelial Cell Proliferation and Differentiation."</a></strong><br />
           <sup>Tjahjono N, Xia CH, Li R, Chu S, Wang J, Gong X</sup></li>
           <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/32913386/">"CP49 and filensin intermediate filaments are essential for formation of cold cataract."</a></strong><br />

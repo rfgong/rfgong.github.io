@@ -116,8 +116,8 @@
         <p class="member"><span class="name">Tom Zhang</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-sm-12 text-center"> <img src="static/img/members/karTraS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Karine Trapenard</span><br />
+      <div class="col-sm-12 text-center"> <img src="static/img/members/anaYanS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Anastasia Yang</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
@@ -131,14 +131,15 @@
         <p class="member"><span class="name">Jack Shang</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-lg-12">
+      <div class="col-sm-12 text-center"> <img src="static/img/members/racLinS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Rachel Lin</span><br />
+          Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
-        <br>
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/conTumS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Connor Tumelty</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center">  <img src="static/img/members/taiPaiS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Taishi Painter</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/isaXuS.jpg" class="img-responsive center-block" id="circular" alt="">
