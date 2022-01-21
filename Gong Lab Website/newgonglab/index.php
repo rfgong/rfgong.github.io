@@ -67,7 +67,7 @@
         <br>
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/xiaGonS.jpg" class="img-responsive center-block" id="circular" alt="">
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/xiaGon2S.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Xiaohua Gong</span><br />
           PhD, Professor, Principal Investigator<br />
           xgong@berkeley.edu</p>
