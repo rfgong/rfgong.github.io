@@ -146,6 +146,10 @@
         <p class="member"><span class="name">Isaac Xu</span><br />
           Undergraduate Research Student<br /></p>
       </div>
+      <div class="col-sm-12 text-center"> <img src="static/img/members/angLiS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Angela Li</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
       <div class="col-lg-12">
       </div>
         <br>
