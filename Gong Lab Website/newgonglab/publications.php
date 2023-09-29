@@ -29,7 +29,7 @@
 </head>
 
 <body>
-<? include 'nav.inc' ?>
+<?php include 'nav.inc' ?>
 <div class="container">
   <div class="row" id="row1">
     <div class="box banner" id="pubs">
@@ -42,6 +42,10 @@
     <div class="box">
       <div class="col-lg-12">
         <ul class="publist">
+          <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/37306987/">"Adaptive Optical Two-Photon Fluorescence Microscopy Probes Cellular Organization of Ocular Lenses In Vivo."</a></strong><br />
+          <sup>Paidi SK, Zhang Q, Yang Y, Xia CH, Ji N, Gong X</sup></li>
+          <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/37039777/">"Retinal microvascular and neuronal pathologies probed in vivo by adaptive optical two-photon fluorescence microscopy."</a></strong><br />
+          <sup>Zhang Q, Yang Y, Cao KJ, Chen W, Paidi S, Xia CH, Kramer RH, Gong X, Ji N</sup></li>
           <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/34597677/">"Age-related changes of lens stiffness in wild-type and Cx46 knockout mice."</a></strong><br />
           <sup>Stopka W, Libby T, Lin S, Wang E, Xia CH, Gong X</sup></li>
           <li><strong><a href="https://www.nature.com/articles/s41598-021-96867-7/">"Quantitative X-ray tomographic analysis reveals calcium precipitation in cataractogenesis."</a></strong><br />
