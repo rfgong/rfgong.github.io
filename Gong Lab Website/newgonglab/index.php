@@ -132,9 +132,10 @@
         <p class="member"><span class="name">Han Pham</span><br />
           Undergraduate Research Student<br /></p>
       </div>
+      <div class="col-sm-12 text-center">
+        <p class="member"><br /></p>
+      </div>
       <div class="col-lg-12">
-        <br>
-        <br>
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div> 
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/helLiuS.jpg" class="img-responsive center-block" id="circular" alt="">
