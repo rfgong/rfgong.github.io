@@ -42,6 +42,8 @@
     <div class="box">
       <div class="col-lg-12">
         <ul class="publist">
+          <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/38984115/">"Longitudinal study of microphthalmia in connexin 50 knockout mice using spectral-domain optical coherence tomography."</a></strong><br />
+          <sup>Painter T, Ou C, Gong X, Xia CH</sup></li>
           <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/38137394/">"Identification and Characterization of Retinitis Pigmentosa in a Novel Mouse Model Caused by PDE6B-T592I."</a></strong><br />
           <sup>Xia CH, Liu H, Li M, Zhang H, Xing X, Gong X</sup></li>
           <li><strong><a href="https://pubmed.ncbi.nlm.nih.gov/37306987/">"Adaptive Optical Two-Photon Fluorescence Microscopy Probes Cellular Organization of Ocular Lenses In Vivo."</a></strong><br />
