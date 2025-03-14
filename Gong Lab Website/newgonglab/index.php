@@ -103,16 +103,16 @@
       <div class="col-lg-12">
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div> 
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/hyuLeeS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Hyunjun Lee</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/xinXinS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Xinfang Xing</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/wenZhaS.jpg" class="img-responsive center-block" id="circular" alt="">
         <p class="member"><span class="name">Wendy Zhang</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-sm-12 text-center"> <img src="static/img/members/xinXinS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Xinfang Xing</span><br />
+      <div class="col-sm-12 text-center"> <img src="static/img/members/ryaBloS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Ryan Bloch</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
@@ -122,8 +122,23 @@
         <p class="member"><span class="name">Khushi Agarwal</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/ryaBloS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Ryan Bloch</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/eliWanS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Elizabeth Wang</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-sm-12 text-center"> <img src="static/img/members/wilDonS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Will Dong</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-lg-12">
+      </div>
+      <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div> 
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/abiKalS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Abi Kalaw</span><br />
+          Undergraduate Research Student<br /></p>
+      </div>
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jesLewS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Jessica Lewis</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-sm-12 text-center">
@@ -132,12 +147,12 @@
       <div class="col-lg-12">
       </div>
       <div class="col-sm-1 col-sm-1 col-sm-1 text-center"></div> 
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/wilDonS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Will Dong</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/sanNitS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Sanhita Nittala</span><br />
           Undergraduate Research Student<br /></p>
       </div>
-      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/eliWanS.jpg" class="img-responsive center-block" id="circular" alt="">
-        <p class="member"><span class="name">Elizabeth Wang</span><br />
+      <div class="col-sm-5 col-sm-5 col-sm-5 text-center"> <img src="static/img/members/jonYuS.jpg" class="img-responsive center-block" id="circular" alt="">
+        <p class="member"><span class="name">Jonathan Yu</span><br />
           Undergraduate Research Student<br /></p>
       </div>
       <div class="col-lg-12">
