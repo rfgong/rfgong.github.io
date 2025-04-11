@@ -198,5 +198,9 @@
 
 <!-- Bootstrap Core JavaScript --> 
 <script src="static/js/bootstrap.min.js"></script>
+
+<!-- Siteimprove Analytics Script -->
+<script async src = "https://siteimproveanalytics.com/js/siteanalyze_6294756.js"></script>
+
 </body>
 </html>
